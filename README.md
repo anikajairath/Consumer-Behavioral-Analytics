@@ -69,7 +69,6 @@ The analysis is based on a synthetic e-commerce dataset containing **10,000 cons
 - Bandwagon Effect
 - Loss Aversion
 - Authority Bias
-- Decision Fatigue
 - Consumer Segmentation
 - Behavioral Marketing
 
