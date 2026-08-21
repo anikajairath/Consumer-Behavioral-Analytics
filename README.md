@@ -1,5 +1,4 @@
 # ⭐ Key Project for Data Analyst Portfolio
-----------------------------------------------------------------------------------------------------------------
 
 # Consumer Behavioral Analytics – Evaluating Psychological Nudges in E-Commerce
 
